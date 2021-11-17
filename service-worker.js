@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FramerMotion_Playground/precache-manifest.5f5abd33bea79dc2c21b06789c1a3fcf.js"
+  "/FramerMotion_Playground/precache-manifest.574f16423a76bea66b8d42ed19404406.js"
 );
 
 workbox.clientsClaim();

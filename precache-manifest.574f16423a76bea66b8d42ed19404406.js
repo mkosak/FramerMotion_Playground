@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "c523cb8d2abe6110d377",
-    "url": "/FramerMotion_Playground/static/css/main.bc2d5f5e.chunk.css"
+    "revision": "90bbb91669a9987f08bf",
+    "url": "/FramerMotion_Playground/static/css/main.32e1d8ae.chunk.css"
   },
   {
-    "revision": "c523cb8d2abe6110d377",
-    "url": "/FramerMotion_Playground/static/js/main.c523cb8d.chunk.js"
+    "revision": "90bbb91669a9987f08bf",
+    "url": "/FramerMotion_Playground/static/js/main.90bbb916.chunk.js"
   },
   {
-    "revision": "76fb6438a8428fe07dde",
-    "url": "/FramerMotion_Playground/static/js/1.76fb6438.chunk.js"
+    "revision": "8ae3b60c1d16697f7d1d",
+    "url": "/FramerMotion_Playground/static/js/1.8ae3b60c.chunk.js"
   },
   {
     "revision": "e9f40e50157f6e6cc452",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/FramerMotion_Playground/static/media/Plant.72493d01.svg"
   },
   {
-    "revision": "77b8f97f54e49310463334e6ab062de6",
+    "revision": "2faaf4c7db0dcc154ea5910a1b97acbd",
     "url": "/FramerMotion_Playground/index.html"
   }
 ];
