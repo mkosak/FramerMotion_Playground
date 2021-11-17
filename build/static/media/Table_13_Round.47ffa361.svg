@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="121px" viewBox="0 0 120 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Table 13 Round</title>
+    <defs>
+        <circle id="path-1" cx="60" cy="59.5" r="54"></circle>
+        <filter x="-8.3%" y="-8.3%" width="116.7%" height="116.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="POS---Main-Views" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Table-View---Seated" transform="translate(-863.000000, -406.000000)">
+            <g id="Main-Area" transform="translate(366.000000, 113.000000)">
+                <g id="Indoor-Area" transform="translate(124.500000, 199.500000)">
+                    <g id="Table-13-Round" transform="translate(372.500000, 94.500000)">
+                        <g id="Top-Chairs" transform="translate(5.500000, 0.000000)" fill="#D8D8D8">
+                            <rect id="Seat-1" opacity="0.756324405" transform="translate(91.500000, 24.500000) rotate(45.000000) translate(-91.500000, -24.500000) " x="78.5" y="15.5" width="26" height="18" rx="7"></rect>
+                            <rect id="Seat-1" opacity="0.756324405" transform="translate(15.500000, 24.500000) rotate(130.000000) translate(-15.500000, -24.500000) " x="2.5" y="15.5" width="26" height="18" rx="7"></rect>
+                            <rect id="Seat-3" opacity="0.760044643" x="41" y="0" width="26" height="18" rx="7"></rect>
+                        </g>
+                        <g id="Bottom-Chairs" transform="translate(59.000000, 99.500000) rotate(180.000000) translate(-59.000000, -99.500000) translate(4.500000, 79.000000)" fill="#D8D8D8">
+                            <rect id="Seat-1" opacity="0.756324405" transform="translate(92.500000, 25.000000) rotate(45.000000) translate(-92.500000, -25.000000) " x="79.5" y="16" width="26" height="18" rx="7"></rect>
+                            <rect id="Seat-1" opacity="0.756324405" transform="translate(16.000000, 24.500000) rotate(130.000000) translate(-16.000000, -24.500000) " x="3" y="15.5" width="26" height="18" rx="7"></rect>
+                            <rect id="Seat-3" opacity="0.760044643" x="41.5" y="0" width="26" height="18" rx="7"></rect>
+                        </g>
+                        <path d="M104.5,49.5 L116.5,49.5 C120.365993,49.5 123.5,52.6340068 123.5,56.5 L123.5,60.5 C123.5,64.3659932 120.365993,67.5 116.5,67.5 L104.5,67.5 C100.634007,67.5 97.5,64.3659932 97.5,60.5 L97.5,56.5 C97.5,52.6340068 100.634007,49.5 104.5,49.5 Z" id="Seat-2" fill="#D8D8D8" opacity="0.761835007" transform="translate(110.500000, 58.500000) rotate(90.000000) translate(-110.500000, -58.500000) "></path>
+                        <path d="M3,49.5 L15,49.5 C18.8659932,49.5 22,52.6340068 22,56.5 L22,60.5 C22,64.3659932 18.8659932,67.5 15,67.5 L3,67.5 C-0.865993249,67.5 -4,64.3659932 -4,60.5 L-4,56.5 C-4,52.6340068 -0.865993249,49.5 3,49.5 Z" id="Seat-4" fill="#D8D8D8" opacity="0.757905506" transform="translate(9.000000, 58.500000) rotate(90.000000) translate(-9.000000, -58.500000) "></path>
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#B620E0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="13" font-family="HelveticaNowText-Medium, Helvetica Now Text" font-size="17" font-weight="400" letter-spacing="-0.378857129" fill="#FFFFFF">
+                            <tspan x="50.5" y="48">13</tspan>
+                        </text>
+                        <g id="Group" transform="translate(55.000000, 69.500000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <g id="Silverware">
+                                <path d="M3.63636364,0.5 L3.63636364,3.2 C3.63636364,3.53 3.36363636,3.8 3.03030303,3.8 L3.03030303,0.5 L2.42424242,0.5 L2.42424242,3.8 L1.81818182,3.8 L1.81818182,0.5 L1.21212121,0.5 L1.21212121,3.8 C0.878787879,3.8 0.606060606,3.53 0.606060606,3.2 L0.606060606,0.5 L0,0.5 L0,5 C0,5.708 0.490909091,6.302 1.16363636,6.458 L0.909090909,14.3 C0.909090909,14.96 1.45454545,15.5 2.12121212,15.5 C2.78787879,15.5 3.33333333,14.96 3.33333333,14.288 L3.07878788,6.458 C3.75151515,6.302 4.24242424,5.708 4.24242424,5 L4.24242424,0.5 L3.63636364,0.5 Z M3.63636364,5 C3.63636364,5.486 3.24848485,5.882 2.75757576,5.894 C2.58787879,5.9 2.46060606,6.038 2.46666667,6.206 L2.72727273,14.3 C2.72727273,14.63 2.45454545,14.9 2.12121212,14.9 C1.78787879,14.9 1.51515152,14.63 1.51515152,14.312 L1.77575758,6.206 C1.78181818,6.038 1.65454545,5.9 1.48484848,5.894 C0.993939394,5.882 0.606060606,5.486 0.606060606,5 L0.606060606,4.232 C0.787878788,4.334 0.987878788,4.4 1.21212121,4.4 L3.03030303,4.4 C3.25454545,4.4 3.45454545,4.334 3.63636364,4.232 L3.63636364,5 Z M10,4.412 C10,1.106 7.06060606,0.524 7.03030303,0.518 C6.94545455,0.5 6.84848485,0.524 6.78181818,0.584 C6.71515152,0.638 6.67272727,0.722 6.67272727,0.812 L6.67272727,14.288 C6.67272727,14.948 7.21212121,15.488 7.87878788,15.488 C8.54545455,15.488 9.08484848,14.948 9.08484848,14.27 L8.79393939,9.29 C9.1030303,8.912 10,7.574 10,4.412 Z M8.47878788,14.288 C8.47878788,14.618 8.21212121,14.888 7.87878788,14.888 C7.54545455,14.888 7.27272727,14.618 7.27272727,14.288 L7.26666667,1.208 C7.95151515,1.454 9.39393939,2.228 9.39393939,4.412 C9.39393939,7.856 8.28484848,8.948 8.27878788,8.96 C8.21212121,9.02 8.17575758,9.104 8.18181818,9.194 L8.47878788,14.288 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                        <g id="Progress-Bar-Copy-3" transform="translate(42.000000, 58.000000)">
+                            <rect id="Rectangle" fill="#C8C8C8" x="0" y="0" width="37" height="3" rx="1.5"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="19" height="3" rx="1.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
